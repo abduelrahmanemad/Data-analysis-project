@@ -1,6 +1,6 @@
 # Data Analysis Project - US bikeshare data
 
-This is a python script to analysis Comma-separated values (CSV) files related to Bikeshare data in United states
+This is a python script to analyse Comma-separated values (CSV) files related to Bikeshare data in United states
 
 ## Tabel of Contents 
 
